@@ -6,7 +6,7 @@ class Jadd < Formula
 
   def install
       bin.install "bin/jadd"
-      lib.install "lib/*"
+      lib.install "lib"
   end
 
 end

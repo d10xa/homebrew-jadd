@@ -1,8 +1,8 @@
 class Jadd < Formula
   desc ""
   homepage ""
-  url "https://bintray.com/d10xa/bin/download_file?file_path=jadd-0.1.0.zip"
-  sha256 "93b95cd1dfdaa141a5a25f52c44bec4b76e353b66badc5011dcd89085f81fe77"
+  url "https://bintray.com/d10xa/bin/download_file?file_path=jadd-0.1.1.zip"
+  sha256 "9eff1fa0b7ca8f1ce4d7e80507b098645a9b6145bcf9713563fbdf973254365b"
 
   def install
       lib.install Dir["lib/*"]
